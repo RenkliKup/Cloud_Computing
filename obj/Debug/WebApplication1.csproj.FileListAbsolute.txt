@@ -74,3 +74,7 @@ C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplic
 C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\BARIŞ\source\repos\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
